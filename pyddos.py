@@ -18,7 +18,7 @@ title = '''
  #    #  ######  #    #  ######   ####
                                                                     
  DDos python script | Script used for testing ddos | Ddos attack     
- Author: ___T7hM1___                                                
+ Author: kenzo                                            
  Instagram: https://instagram.com/k.kenzo.o                           
  Version:'''+version+''' 
 '''
